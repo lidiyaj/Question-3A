@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "mOTdKNK0gVA8TiqzTSmIZMrVxNY+bE5718AAg0oJXRiqHsGGtdfDgcKZ9Qf3Y2TS2evsB3OyZvJ6IgR8m8ri7A==",
+  "success": true,
+  "projectFilePath": "D:\\Lidiya\\Assessment2\\Question-3A\\taskconsumer\\taskconsumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dockeruser\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
+    "C:\\Users\\dockeruser\\.nuget\\packages\\rabbitmq.client\\6.2.2\\rabbitmq.client.6.2.2.nupkg.sha512",
+    "C:\\Users\\dockeruser\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\dockeruser\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
